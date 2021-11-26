@@ -410,16 +410,6 @@ Saya ${botname} Yg Siap Membantu Anda Dalam Kinerja Whatsapp Agar Mempermudah Se
 │ 📤 ${prefix}fbdl
 │ 📤 ${prefix}igdl
 └⬣
-╭─⬣「 Asupan Menu 」⬣
-│ 🍵 ${prefix}asupan
-│ 🍵 ${prefix}asupancecan
-│ 🍵 ${prefix}asupanhijaber
-│ 🍵 ${prefix}asupansantuy
-│ 🍵 ${prefix}asupanukhti
-│ 🍵 ${prefix}asupanbocil
-│ 🍵 ${prefix}asupanghea
-│ 🍵 ${prefix}asupanrika
-└⬣
 ╭─⬣「 Quotes Menu 」⬣
 │ 🍂 ${prefix}quotesanime
 │ 🍂 ${prefix}quotesanime
@@ -469,7 +459,6 @@ Saya ${botname} Yg Siap Membantu Anda Dalam Kinerja Whatsapp Agar Mempermudah Se
 │ 🎃 ${prefix}stalkgithub
 └⬣
 ╭─⬣「 Anime Menu 」⬣
-│ 🗞️ ${prefix}loli
 │ 🗞️ ${prefix}neko
 │ 🗞️ ${prefix}waifu
 │ 🗞️ ${prefix}shota
@@ -485,26 +474,7 @@ Saya ${botname} Yg Siap Membantu Anda Dalam Kinerja Whatsapp Agar Mempermudah Se
 │ 🏷️ ${prefix}blackpink
 │ 🏷️ ${prefix}glitch
 │ 🏷️ ${prefix}marvel
-└⬣
-╭─⬣「 18+ Menu 」⬣
-│ 😈 ${prefix}bokep
-│ 😈 ${prefix}dosa1
-│ 😈 ${prefix}dosa2
-│ 😈 ${prefix}dosa3
-│ 😈 ${prefix}dosa4
-│ 😈 ${prefix}dosa5
-│ 😈 ${prefix}dosa6
-│ 😈 ${prefix}dosa7
-│ 😈 ${prefix}dosa8
-│ 😈 ${prefix}dosa9
-│ 😈 ${prefix}dosa10
-│ 😈 ${prefix}dosa11
-│ 😈 ${prefix}dosa12
-│ 😈 ${prefix}dosa13
-│ 😈 ${prefix}dosa14
-│ 😈 ${prefix}dosa15
-└⬣
-`
+└⬣`
 teks =
 `Ini Sc Buatan LeonGanz Silahkan Di Pake Jika Ingin Recode Atau Reupload Tolong Creator Jangan Hpus Tolong Hargai Karya Orang 🙏`
 but = [
