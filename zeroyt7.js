@@ -115,15 +115,15 @@ module.exports = zeroyt7 = async (zeroyt7, mek, _welkom) => {
 //━━━━━━━━━━━━━━━[ CONNECTION 1 ]━━━━━━━━━━━━━━━━━//
 
 		mess = {
-			wait: 'Sabar Lagi Proses Tod...!',
+			wait: 'Sabar Lagi Proses....',
 			success: 'Done Jangan Lupa Subscribe LeonGanz',
 			error: {
 				stick: 'Gagal Convert Gambar To Sticker...Coba Lagi !',
-				Iv: 'Linknya Error Tod !'
+				Iv: 'Linknya Error'
 			},
 			only: {
-				admin: 'Kusus Admin Tod !',
-				group: 'Khusus Group Tod !'
+				admin: 'Maaf Khusus Admin',
+				group: 'Maaf Khusus Admin'
 			}
 		}
 		faketeks = '©Created : LeonGanz'
@@ -886,7 +886,7 @@ button = [
 await zeroyt7.sendMessage(from, buttons, MessageType.buttonsMessage, {quoted: ftrol})
 break
 case 'bc':
-if (!isOwner) return reply('LU BUKAN OWNER GBLOK')
+if (!isOwner) return reply('ANDA BUKAN OWNER')
 if (args.length < 1) return reply('Teksnya?')
 anu = await zeroyt7.chats.all()
 for (let _ of anu) {
